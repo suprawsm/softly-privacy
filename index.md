@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** April 26, 2026
+**Last updated:** May 7, 2026
 
 ## 1. Who this policy is from
 
@@ -27,7 +27,7 @@ The data is not tied to a person, an identity, or a profile. We do not ask for, 
 
 ## 4. Where the data lives
 
-All data is stored locally on your device using the operating system's standard storage facility (`AsyncStorage` on iOS, backed by the iOS keychain and sandboxed app container).
+All data is stored locally on your device inside the app's sandboxed container, using the operating system's standard storage facility (`AsyncStorage` on iOS).
 
 If you have iCloud enabled on your device, the data is also written to your personal iCloud key-value storage. This is a feature of iCloud that lets the same app installed on your other devices, signed into the same iCloud account, read back the data you have entered. The purpose of this is solely to:
 

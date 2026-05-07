@@ -1,6 +1,6 @@
 # softly — Support
 
-**Last updated:** May 2, 2026
+**Last updated:** May 7, 2026
 
 ## Getting help
 
@@ -19,7 +19,7 @@ softly stores your data locally on your device. If you have iCloud enabled for s
 Make sure iCloud is enabled for softly on both devices and that both devices are signed into the same Apple ID. Your data syncs through Apple's iCloud key-value store automatically.
 
 ### How do I disable the daily reminder?
-Open softly → Settings → turn off "Daily reminder".
+Open softly → Settings → turn off "Notifications". You can also change the reminder time from the same screen.
 
 ### How do I change the app's language?
 Open softly → Settings → Language → pick System, English, or Svenska.
