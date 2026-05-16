@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** May 7, 2026
+**Last updated:** May 16, 2026
 
 ## 1. Who this policy is from
 
@@ -17,8 +17,9 @@ If that is all you wanted to know, you can stop reading.
 When you use softly, the following information is saved on your device:
 
 - Daily severity scores you log (a number from 0 to 10 with the date).
-- Free-text notes you choose to write, organized by week.
-- Your in-app settings (notification preferences, reminder time, language).
+- Free-text notes you choose to write at the weekly level (one note per week).
+- Free-text notes you choose to write at the per-day level (one note per session).
+- Your in-app settings (notification preferences, reminder time, language, appearance, session length).
 - A flag indicating that you have accepted the in-app disclaimer.
 
 That is the complete list. The app does not store names, ages, photos, contact details, location, device identifiers, IP addresses, account credentials, health metrics from other sources, or anything else.

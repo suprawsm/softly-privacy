@@ -1,6 +1,6 @@
 # softly — Support
 
-**Last updated:** May 7, 2026
+**Last updated:** May 16, 2026
 
 ## Getting help
 
@@ -23,6 +23,12 @@ Open softly → Settings → turn off "Notifications". You can also change the r
 
 ### How do I change the app's language?
 Open softly → Settings → Language → pick System, English, or Svenska.
+
+### How do I switch between light and dark mode?
+Open softly → Settings → Appearance → pick System, Light, or Dark. "System" follows your device's appearance setting.
+
+### Can I change how long a session is?
+Open softly → Settings → Session length and adjust in 5-minute increments (minimum 15 minutes). The day-session timer uses this value.
 
 ### Is softly a medical device?
 No. softly is a personal journal for tracking daily stuttering severity scores. It is not a diagnostic or treatment tool and should be used only under the guidance of a qualified speech-language pathologist. See the privacy policy and in-app disclaimer for details.
